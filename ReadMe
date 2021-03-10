@@ -10,3 +10,18 @@ https://www.qemu.org/download/#source
 https://github.com/joye/mooc_os_lab:  lab code and answer.
 https://github.com/chyyuu/os_course_info: contain Operating System: Three Easy Pieces.
 https://github.com/dramforever/os-lectures-build/releases
+
+激光导航
+视觉导航: 深度摄像头，通过测距实现三维空间感知
+SLAM (simultaneous localization and mapping),也称为CML (Concurrent Mapping and Localization), 即时定位与地图构建，或并发建图与定位
+机器人领域运用比较多
+
+惯导(INS: Inertial Navigation System): 陀螺仪和加速计测量速度，位置和姿态。主要有IMU(Inetial Measurement Unit)和计算机，三维微积分计算。
+在GPS信号不好用，被屏蔽和中断的时候都非常重要。广泛应用于无人驾驶领域，以及制造业、机器人、农业、交通、工业设备、海洋、移动绘测、石油天然气和采矿等领域。
+
+GPS导航：卫星导航，和惯导配合使用，消除惯导长时间由于误差带来的漂移
+
+VOR: 无线电导航， Very High Frequency Omnidirectional Radio Range
+ADF+NDB: Automatic Direction Finder +  Non-Directional Beacon
+
+
